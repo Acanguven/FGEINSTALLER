@@ -1,6 +1,6 @@
 
 local version = "12"
-
+local AutoUpdate = false
 require "old2dgeo"
 
 class 'CollisionPE'
